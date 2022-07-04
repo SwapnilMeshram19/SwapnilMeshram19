@@ -15,7 +15,7 @@
 
 
 
-<h2>Things I code with...</h2>
+### Things I code with...
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@
 <img alt="Java" src="https://img.shields.io/badge/-Java-1a73e8?style=flat-square&logo=Java&logoColor=white" />
 
 
-<h2>Stats 📈</h2>
+### Stats 📈
 
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilMeshram19&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilMeshram19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
