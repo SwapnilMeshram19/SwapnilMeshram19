@@ -23,9 +23,9 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="MySql" src="https://img.shields.io/badge/-MySql-orange?style=flat-square&logo=MySql&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-1a73e8?style=flat-square&logo=Java&logoColor=white" />
+<img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-1572B6?style=flat-square&logo=Express.js&logoColor=white" />
+<img alt="MySql" src="https://img.shields.io/badge/-MySql-45b8d8?style=flat-square&logo=MySql&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=white" />
 
 
 ### Stats 📈
