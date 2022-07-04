@@ -11,7 +11,26 @@
 
 ##Social
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-meshram-37a715167) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swapnilm1908) 
 
+
+
+<h2>Things I code with...</h2>
+<p>
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="MySql" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=MySql&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=Java&logoColor=white" />
+
+
+<h2>Stats 📈</h2>
+
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshMishra&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshMishra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
