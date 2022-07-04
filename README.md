@@ -9,7 +9,7 @@
 
 [Resume](https://drive.google.com/file/d/1PvY2GjWNavb-9hz3MK4C51vM9ZAgZ2MI/view?usp=sharing)
 
-##Social
+### Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-meshram-37a715167) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swapnilm1908) 
 
