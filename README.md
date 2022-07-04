@@ -30,7 +30,7 @@
 
 <h2>Stats 📈</h2>
 
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilMeshram19&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilMeshram19&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilMeshram19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
