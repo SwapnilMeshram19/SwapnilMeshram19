@@ -12,9 +12,12 @@
 
 ### Social
  <p>
-  <a href="https://www.linkedin.com/in/swapnil-meshram-37a715167"> 
+  <a href="https://www.linkedin.com/in/swapnil-meshram-37a715167" target="_blank"> 
   
-  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="80px" height="25px" /></a>
+  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" width="30px" height="30px" /></a>
+<a href="https://www.linkedin.com/in/swapnil-meshram-37a715167" target="_blank"> 
+  
+  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/180px-Twitter-logo.svg.png" width="30px" height="30px" /></a>
 
    
 </p>
@@ -30,8 +33,8 @@
 <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="40px" height="40px"  / />
 <img alt="redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"  width="40px" height="40px"  //>
 <img alt="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"  width="40px" height="40px"  //>
-<img alt="Expressjs" src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg" background-color="white"  width="90px" height="30px"  //>
-<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="90px" height="30px"  //>
+<img alt="Expressjs" src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg" background-color="white"  width="100px" height="40px"  //>
+<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="100px" height="40px"  //>
 
 
 ### Stats 📈
