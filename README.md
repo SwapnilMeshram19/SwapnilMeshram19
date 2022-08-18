@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋</h2>
 
-<p style="font-size:10px:align:center"> <b>I'm Swapnil, Full Stack Web Developer </b> from <img src="./public/in.svg" width="15"/> <b> Nagpur, Maharashtra, India</b>. <p>
+<h3 align="center"> <b>I'm Swapnil, Full Stack Web Developer </b></h3> from <img src="./public/in.svg" width="15"/> <b> Nagpur, Maharashtra, India</b>.
 
 
 [Resume](https://drive.google.com/file/d/1PvY2GjWNavb-9hz3MK4C51vM9ZAgZ2MI/view?usp=sharing)<br/>
