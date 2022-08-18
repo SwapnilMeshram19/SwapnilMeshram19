@@ -14,7 +14,7 @@
  <p>
   <a href="https://www.linkedin.com/in/swapnil-meshram-37a715167"> 
   
-  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="90px" height="40px" /></a>
+  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="90px" height="30px" /></a>
 
    
 </p>
