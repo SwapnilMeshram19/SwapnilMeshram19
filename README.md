@@ -20,13 +20,12 @@
 <p>
 <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" width="40px" height="40px" />
 <img alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="40px" height="40px"  />
-<img alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-1572B6?style=flat-square&logo=Express.js&logoColor=white" />
-<img alt="MySql" src="https://img.shields.io/badge/-MySql-45b8d8?style=flat-square&logo=MySql&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=white" />
+<img alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649"  width="40px" height="40px"  //>
+<img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="40px" height="40px"  / />
+<img alt="redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"  width="40px" height="40px"  //>
+<img alt="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"  width="40px" height="40px"  //>
+<img alt="Expressjs" src="[https://img.shields.io/badge/-Expressjs-1572B6?style=flat-square&logo=Express.js&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805)"  width="40px" height="40px"  //>
+<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="40px" height="40px"  //>
 
 
 ### Stats 📈
