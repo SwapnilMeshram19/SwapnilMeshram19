@@ -5,9 +5,10 @@
 ""
 -->
 
-<p>Welcom to my page <br/> I'm Swapnil, Full Stack Web Developer from <img src="./public/in.svg" width="15"/> <b> Nagpur, India</b>. <p>
+<p>Welcom to my page <br/> I'm Swapnil, Full Stack Web Developer from <img src="./public/in.svg" width="15"/> <b> Nagpur, Maharashtra, India</b>. <p>
 
 [Resume](https://drive.google.com/file/d/1PvY2GjWNavb-9hz3MK4C51vM9ZAgZ2MI/view?usp=sharing)
+[Portfolio](https://swapnilmeshram.netlify.app/)
 
 ### Social
 
