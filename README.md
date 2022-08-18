@@ -27,9 +27,9 @@
 <img alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649"  width="40px" height="40px"  //>
 <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="40px" height="40px"  / />
 <img alt="redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"  width="40px" height="40px"  //>
-<img alt="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"  width="100px" height="40px"  //>
-<img alt="Expressjs" src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg" background-color="white"  width="100px" height="40px"  //>
-<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="100px" height="40px"  //>
+<img alt="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"  width="80px" height="40px"  //>
+<img alt="Expressjs" src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg" background-color="white"  width="100px" height="35px"  //>
+<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="100px" height="35px"  //>
 
 
 ### Stats 📈
