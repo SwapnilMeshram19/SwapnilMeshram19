@@ -11,18 +11,16 @@
 [Portfolio](https://swapnilmeshram.netlify.app/)
 
 ### Social
- <p>
+ <p display="flex">
   <a href="https://www.linkedin.com/in/swapnil-meshram-37a715167" target="_blank"> 
   
   <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" width="30px" height="30px" /></a>
-<a href="https://www.linkedin.com/in/swapnil-meshram-37a715167" target="_blank"> 
+<a href="https://twitter.com/swapnilm1908" target="_blank"> 
   
   <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/180px-Twitter-logo.svg.png" width="30px" height="30px" /></a>
 
    
 </p>
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/swapnil-meshram-37a715167) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swapnilm1908) 
-
 
 
 ### Things I code with...
