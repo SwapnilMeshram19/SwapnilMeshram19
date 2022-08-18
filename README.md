@@ -11,15 +11,12 @@
 [Portfolio](https://swapnilmeshram.netlify.app/)
 
 ### Social
- <p style="display:flex">
+ <p>
   <a href="https://www.linkedin.com/in/swapnil-meshram-37a715167" target="_blank"> 
   
-  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" width="30px" height="30px" /></a>
+  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" width="30px" height="30px"/></a>
 <a href="https://twitter.com/swapnilm1908" target="_blank"> 
-  
-  <img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/180px-Twitter-logo.svg.png" width="30px" height="30px" /></a>
-
-   
+  [<img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/180px-Twitter-logo.svg.png" width="30px" height="30px" />]("https://twitter.com/swapnilm1908")
 </p>
 
 
