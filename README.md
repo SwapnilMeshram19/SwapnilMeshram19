@@ -11,7 +11,7 @@
 [Portfolio](https://swapnilmeshram.netlify.app/)
 
 ### Social
-
+<img alt="linkedIn" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="90px" height="40px" href="https://www.linkedin.com/in/swapnil-meshram-37a715167"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-meshram-37a715167) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swapnilm1908) 
 
 
