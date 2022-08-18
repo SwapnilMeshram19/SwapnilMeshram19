@@ -2,6 +2,11 @@
 
 <h3 align="center"> <b>I'm Swapnil, Full Stack Web Developer </b></h3> <p align="center"> from <img src="./public/in.svg" width="15"/> <b> Nagpur, Maharashtra, India</b>.</p>
 
+
+<h2 align="center">About me ✋</h2>
+
+<p align="center">An aspiring full stack web developer. Looking to obtain the position of a full stack web developer in a fast-paced tech environment to utilize technical skills to get experience in developing customized software based on varying client demand</p>
+
 <hr/>
 
 
