@@ -1,4 +1,4 @@
-### <h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 
 <h3 align="center"> <b>I'm Swapnil, Full Stack Web Developer </b></h3> <p align="center"> from <img src="./public/in.svg" width="15"/> <b> Nagpur, Maharashtra, India</b>.</p>
 
@@ -10,7 +10,7 @@
 
 <hr/>
 
-### <h2> Social</h2>
+<h2> Social</h2>
  <p>
   <a href="https://www.linkedin.com/in/swapnil-meshram-37a715167" target="_blank"> 
   
@@ -20,7 +20,7 @@
 </p>
 
 <hr/>
-### <h2> Things I code with... </h2>
+<h2> Things I code with... </h2>
 <p>
  <img alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="40px" height="40px"  />
 <img alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649"  width="30px" height="40px"  />
@@ -33,7 +33,7 @@
 <img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="100px" height="35px"  />
 
 <hr/>
-### <h2>Stats 📈</h2>
+<h2>Stats 📈</h2>
 
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilMeshram19&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilMeshram19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
