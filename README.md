@@ -24,8 +24,8 @@
 <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="40px" height="40px"  / />
 <img alt="redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"  width="40px" height="40px"  //>
 <img alt="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"  width="40px" height="40px"  //>
-<img alt="Expressjs" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805"  width="60px" height="40px"  //>
-<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="60px" height="40px"  //>
+<img alt="Expressjs" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805"  width="80px" height="40px"  //>
+<img alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224"  width="80px" height="40px"  //>
 
 
 ### Stats 📈
