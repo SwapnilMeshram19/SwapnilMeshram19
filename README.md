@@ -5,6 +5,7 @@
 
 <h2 align="center">About me ✋</h2>
 
+
 <p align="center">An aspiring full stack web developer. Looking to obtain the position of a full stack web developer in a fast-paced tech environment to utilize technical skills to get experience in developing customized software based on varying client demand</p>
 
 <hr/>
