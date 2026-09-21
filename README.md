@@ -13,7 +13,6 @@
 
 <br/><br/>
 
-<a href="https://swapnilmeshram.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/swapnil-meshram-er" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://drive.google.com/drive/folders/1RiKZZlL_O6ow_4ZhTV-aWdYEQS7dARYr?usp=share_link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" /></a>
 <a href="mailto:swapnilm1908@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
