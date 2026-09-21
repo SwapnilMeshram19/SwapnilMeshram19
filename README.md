@@ -149,13 +149,6 @@ Three platforms for uploading and querying PDF documents.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2dd4bf,100:3b82f6&height=3" width="100%" alt="divider" /></div>
 
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SwapnilMeshram19&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div>
 
 ## 📊 &nbsp;GitHub stats
 
@@ -169,25 +162,7 @@ Three platforms for uploading and querying PDF documents.
 
 <img width="93%" src="https://streak-stats.demolab.com?user=SwapnilMeshram19&theme=algolia&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 
-<img width="93%" src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilMeshram19&theme=react-dark&bg_color=0D1117&color=2DD4BF&line=3B82F6&point=FFFFFF&hide_border=true&radius=8" alt="Activity graph" />
-
 </div>
-
-## 🐍 &nbsp;Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwapnilMeshram19/SwapnilMeshram19/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwapnilMeshram19/SwapnilMeshram19/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/SwapnilMeshram19/SwapnilMeshram19/output/snake.svg" alt="Contribution snake" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev quote" />
 
 <br/><br/>
 
